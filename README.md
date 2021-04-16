@@ -21,8 +21,4 @@ Resolve Network
 Change the name in
 Remove
 ## Screenshots
-![](https://i.imgur.com/7vkh5Za.png)
-![](https://i.imgur.com/AUdfaE7.png)
-![](https://i.imgur.com/gGMw5v5.png)
-![](https://i.imgur.com/Dc90Dkr.png)
-![](https://i.imgur.com/KYVyEYR.png)
+![release](https://user-images.githubusercontent.com/65458800/115034575-574f4400-9ed4-11eb-9eed-f337fe50595f.png)
