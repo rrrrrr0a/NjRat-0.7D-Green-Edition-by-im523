@@ -23,6 +23,6 @@ Resolve Network
 Change the name in
 Remove
 ## Video Showcase
-[![Showcase](https://img.youtube.com/vi/fJakRF2-f4w/maxresdefault.jpg)](https://youtu.be/fJakRF2-f4w)
+[![Showcase](https://img.youtube.com/vi/fJakRF2-f4w/maxresdefault.jpg)](https://youtu.be/RjW717Ycyu0)
 ## Screenshots
 ![release](https://user-images.githubusercontent.com/65458800/115034575-574f4400-9ed4-11eb-9eed-f337fe50595f.png)
