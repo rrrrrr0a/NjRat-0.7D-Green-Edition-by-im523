@@ -1,5 +1,5 @@
 # NjRat 0.7D Green Edition by im523
-## I added decompiled NjRat 0.7D Green Edition source code, but u need to fix it manually, because I'm stupid and I don't know how Visual Basic
+## I added decompiled NjRat 0.7D Green Edition source code, but u need to fix it manually, because I'm stupid and I don't know Visual Basic
 
 [NjRat](https://en.wikipedia.org/wiki/NjRAT) is a remote access tool ([RAT](https://en.wikipedia.org/wiki/Remote_desktop_software#RAT)) or trojan which allows the holder of the program to control the end-user's computer.
 # Educational Purposes Only
